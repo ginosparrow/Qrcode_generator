@@ -16,13 +16,13 @@ Linux: bisogna compilare il fail sul vostro pc.
 
 Per eseguire il codice bisogna istallare:
 
-    'pip install Kivy'
+    pip install Kivy
 per mggiori info lascio anche il link per la libreria [Kivy]('https://kivy.org/')
 
 
 questa libreria si occupa di gestire la parte grafica dell'applicazione.
 
-    'pip install pyqrcode'
+    pip install pyqrcode
 
 per mggiori info lascio anche il link per la libreria [pyqrcode]('https://pypi.org/project/PyQRCode/')
 
