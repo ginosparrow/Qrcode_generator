@@ -16,18 +16,18 @@ Linux: bisogna compilare il fail sul vostro pc.
 
 Per eseguire il codice bisogna istallare python consiglio la versione 3.11.7.  
 
-Per la componete grafica installare Kivy (melgio se la versione 2.3.0)
+Per la componete grafica installare Kivy (melgio se la versione 2.3.0)  
 
     pip install Kivy
-per mggiori info lascio anche il link per la libreria [Kivy]('https://kivy.org/')
-Per la generazione del qrcode installare PyQRCode (melgko la verisone  1.2.1)
+per mggiori info lascio anche il link per la libreria [Kivy]('https://kivy.org/')  
+Per la generazione del qrcode installare PyQRCode (melgko la verisone  1.2.1)  
 
     pip install pyqrcode
 
-per mggiori info lascio anche il link per la libreria [pyqrcode]('https://pypi.org/project/PyQRCode/')
+per mggiori info lascio anche il link per la libreria [pyqrcode]('https://pypi.org/project/PyQRCode/')  
 
-il file querrecode.kv e il file che gestisce la parte grafica.(puo essere compilata per Windous, Linux, Macos, Android, Ios)    
-Invece querreCode.py gestisce la partelogica che andra a generare il qrcode.  
+il file querrecode.kv e il file che gestisce la parte grafica.(puo essere compilata per Windous, Linux, Macos, Android, Ios)      
+Invece querreCode.py gestisce la partelogica che andra a generare il qrcode.    
 
 ## come funziona? 🤔
 
