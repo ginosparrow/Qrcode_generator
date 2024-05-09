@@ -14,13 +14,13 @@ Windows: file .exe
 
 Linux: bisogna compilare il fail sul vostro pc. 
 
-Per eseguire il codice bisogna istallare:
+Per eseguire il codice bisogna istallare python consiglio la versione 3.11.7.  
+
+Per la componete grafica installare Kivy (melgio se la versione 2.3.0)
 
     pip install Kivy
 per mggiori info lascio anche il link per la libreria [Kivy]('https://kivy.org/')
-
-
-questa libreria si occupa di gestire la parte grafica dell'applicazione.
+Per la generazione del qrcode installare PyQRCode (melgko la verisone  1.2.1)
 
     pip install pyqrcode
 
