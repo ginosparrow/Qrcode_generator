@@ -8,9 +8,11 @@ Non c'è molto da dire su questo programa. Il titolo dice già tutto (penso?)�
 
 ## installazoine
 
-In relata se siete utenit Windows non serve istallare nulla. trovate il fai .exe già pronto.il file .exe si trova al percorso riportato qui sotto 🔽
+Se siete uteniti Windows vi bastera installare la libreria pyinstaller 
 
-    \Qrcode_generator\dist\querreCode\querreCode.exe
+    pip install pyinstaller
+
+è molto semplice basta seguire la [guida_online](https://pyinstaller.org/en/stable/)
 
 ### Linux 
 Per i sitemi Linux bisogna acertarsi di avere queste componetni.
@@ -79,5 +81,4 @@ Ora bastera riempire i campi richiesti
  - poi si puo decidere il colore dello sfondo e dei quadrati neri . Se non modificati lo sfondo e bianco e i quadrati neri.
 
 Ultimo passagio cliccare il tasto **Clik**
-
-⚠⚠ **Il file vera generato nella stessa cartella del eseguibile** (più avanti implementero anche la possibilita di scelgiere la cartella dove salvare il file)⚠⚠
+Comparira una finestra per la selezione della cartella dove salvare il file.
